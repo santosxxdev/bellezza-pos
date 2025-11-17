@@ -92,10 +92,10 @@ BEGIN
             VALUE "CompanyName", "com.bellezza.dashboard.pos" "\0"
             VALUE "FileDescription", "bellezza_pos" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bellezza_pos" "\0"
+            VALUE "InternalName", "Bellezza POS" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.bellezza.dashboard.pos. All rights reserved." "\0"
-            VALUE "OriginalFilename", "bellezza_pos.exe" "\0"
-            VALUE "ProductName", "bellezza_pos" "\0"
+            VALUE "OriginalFilename", "Bellezza_POS.exe" "\0"
+            VALUE "ProductName", "Bellezza POS" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
